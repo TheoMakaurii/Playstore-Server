@@ -90,7 +90,7 @@ module.exports = [
       "Android Ver": "4.1 and up"
     },
     {
-      "App": "slither.io",
+      "App": "Slither.io",
       "Category": "GAME",
       "Rating": 4.4,
       "Reviews": "5234162",
